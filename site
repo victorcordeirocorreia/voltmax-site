@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VoltMAX - Soluções Elétricas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>VoltMAX</h1>
+    <p>Soluções elétricas com segurança e eficiência</p>
+    <a href="https://wa.me/5511987165125" class="whatsapp-btn" target="_blank">Chamar no WhatsApp</a>
+  </header>
+
+  <section id="sobre">
+    <h2>Sobre a VoltMAX</h2>
+    <p>Somos especialistas em instalações elétricas, manutenções e soluções completas para residências e comércios. Atuamos com compromisso, qualidade e segurança.</p>
+  </section>
+
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>Instalações elétricas residenciais e comerciais</li>
+      <li>Manutenção e reparos elétricos</li>
+      <li>Troca de fiação</li>
+      <li>Instalação de disjuntores e painéis elétricos</li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Fale Conosco</h2>
+    <form>
+      <input type="text" placeholder="Seu nome" required>
+      <input type="email" placeholder="Seu e-mail" required>
+      <textarea placeholder="Sua mensagem" required></textarea>
+      <button type="submit">Enviar</button>
+    </form>
+    <p>Ou fale direto no <a href="https://wa.me/5511987165125" target="_blank">WhatsApp</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 VoltMAX. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
